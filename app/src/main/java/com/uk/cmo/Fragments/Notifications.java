@@ -10,10 +10,6 @@ import android.view.ViewGroup;
 
 import com.uk.cmo.R;
 
-/**
- * Created by usman on 15-08-2018.
- */
-
 public class Notifications extends Fragment {
 
     public static Notifications getInstance() {

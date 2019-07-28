@@ -1,9 +1,5 @@
 package com.uk.cmo.Model;
 
-/**
- * Created by usman on 11-02-2018.
- */
-
 public class StudyingPerson {
     String pursuing;
     String qualification;

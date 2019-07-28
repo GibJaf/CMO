@@ -14,9 +14,7 @@ import com.uk.cmo.Model.Person;
 import com.uk.cmo.R;
 
 import java.util.ArrayList;
-/**
- * Created by usman on 19-02-2018.
- */
+
 
 public class MemberAdapter extends RecyclerView.Adapter<MemberAdapter.ViewHolder> {
 

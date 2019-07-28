@@ -7,10 +7,6 @@ import android.media.RingtoneManager;
 import android.net.Uri;
 import android.support.v4.content.WakefulBroadcastReceiver;
 
-/**
- * Created by usman on 06-06-2018.
- */
-
 public class NotificationReciever extends WakefulBroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {

@@ -30,10 +30,6 @@ import java.util.ArrayList;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
-/**
- * Created by usman on 21-04-2018.
- */
-
 public class PostAdapter extends RecyclerView.Adapter{
 
     Context context;

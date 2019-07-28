@@ -1,8 +1,5 @@
 package com.uk.cmo.Model;
 
-/**
- * Created by usman on 10-02-2018.
- */
 
 public class CreatedUser {
 

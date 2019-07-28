@@ -29,10 +29,6 @@ import com.uk.cmo.Utility.Constants;
 
 import java.util.ArrayList;
 
-/**
- * Created by usman on 22-02-2018.
- */
-
 public class Posts extends Fragment {
     private final int POSTS_PER_PAGE = 4;
     private FirebaseAuth firebaseAuth;

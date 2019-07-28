@@ -32,9 +32,6 @@ import com.uk.cmo.Model.Person;
 import com.uk.cmo.R;
 import com.uk.cmo.Utility.Constants;
 
-/**
- * Created by usman on 22-02-2018.
- */
 
 public class Members extends Fragment {
     private RecyclerView recyclerView;

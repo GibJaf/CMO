@@ -17,10 +17,6 @@ import com.uk.cmo.Activities.MainActivity;
 import com.uk.cmo.Activities.MainScreenActivity;
 import com.uk.cmo.R;
 
-/**
- * Created by usman on 29-05-2018.
- */
-
 public class MessagingService extends FirebaseMessagingService {
 
     private static final String TAG = "MessagingService";

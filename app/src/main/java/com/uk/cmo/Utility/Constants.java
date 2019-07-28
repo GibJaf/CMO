@@ -3,9 +3,6 @@ package com.uk.cmo.Utility;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-/**
- * Created by usman on 25-04-2018.
- */
 
 public class Constants {
 

@@ -1,9 +1,5 @@
 package com.uk.cmo.Model;
 
-/**
- * Created by usman on 24-02-2018.
- */
-
 public class PostEntity {
 
     private int post_type;
